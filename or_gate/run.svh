@@ -1,0 +1,11 @@
+`include "or_tx.sv"
+`include "or_gate.v"
+`include "or_if.sv"
+`include "or_gen.sv"
+`include "or_bfm.sv"
+//`include "or_mon.sv"
+//`include "or_sco.sv"
+`include "or_env.sv"
+`include "or_tb.sv"
+`include "or_top.sv"
+

@@ -1,0 +1,138 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/sv_testbenches/or_gate
+vor_gate
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z2 DXx4 work 12 run_svh_unit 0 22 KN9N]cDoQednYdcTR`4>V1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 KN8^@T7SLiibIUcIXO2<c0
+IC6L[hQNV8KK[Y;9FJXHOb1
+Z4 !s105 run_svh_unit
+S1
+R0
+w1637299327
+8or_gate.v
+Z5 For_gate.v
+L0 1
+Z6 OL;L;10.6c;65
+Z7 !s108 1637300144.000000
+Z8 !s107 or_top.sv|or_tb.sv|or_env.sv|or_bfm.sv|or_gen.sv|or_if.sv|or_gate.v|or_tx.sv|run.svh|
+Z9 !s90 -reportprogress|300|run.svh|
+!i113 0
+Z10 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z11 tCvgOpt 0
+Yor_inf
+R1
+R2
+R3
+r1
+!s85 0
+31
+!i10b 1
+!s100 1@7UKHz2HD0idQR8P4I:j3
+I6G?NH?cWb4Z>HEVD7_YTa3
+R4
+S1
+R0
+w1637298924
+8or_if.sv
+Z12 For_if.sv
+L0 1
+R6
+R7
+R8
+R9
+!i113 0
+R10
+R11
+4or_tb
+R1
+R2
+R3
+r1
+!s85 0
+31
+!i10b 1
+!s100 idYdTQeLBFQ;gXEHk<U201
+I9h^;d1JhbfkYEj9Ug@MYm0
+R4
+S1
+R0
+w1637299713
+8or_tb.sv
+Z13 For_tb.sv
+L0 1
+R6
+R7
+R8
+R9
+!i113 0
+R10
+R11
+vor_top
+R1
+R2
+R3
+r1
+!s85 0
+31
+!i10b 1
+!s100 fB120RT6S:g_z=<5KZYmN3
+IRzJQU?HBjl5[k[Kj?>dd<0
+R4
+S1
+R0
+w1637299076
+8or_top.sv
+Z14 For_top.sv
+L0 1
+R6
+R7
+R8
+R9
+!i113 0
+R10
+R11
+Xrun_svh_unit
+!s115 or_inf
+R1
+VKN9N]cDoQednYdcTR`4>V1
+r1
+!s85 0
+31
+!i10b 1
+!s100 ]4AnAjkkSXUO<Tm4<hK2@1
+IKN9N]cDoQednYdcTR`4>V1
+!i103 1
+S1
+R0
+w1637300138
+8run.svh
+Frun.svh
+For_tx.sv
+R5
+R12
+For_gen.sv
+For_bfm.sv
+For_env.sv
+R13
+R14
+L0 1
+R6
+R7
+R8
+R9
+!i113 0
+R10
+R11
